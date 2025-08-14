@@ -1,0 +1,20 @@
+Source code BE and FE about website manage KOI fish:
+
+- Function:
+  - User:
+	+ View fishes, articles, feedbacks
+	+ Buy fishes
+	+ Consignment fishes with 2 option (consignment raise, consignment sell)
+	+ Feedback to fishes after buy
+
+  - Admin, Staff:
+	+ View every about website
+	+ CRUD fish, category, article, ...
+	+ Dashboard
+	+ Confirm consignment order from user
+
+- Front-end: Using JavaScript, React JS, HTML, CSS, Tailwind CSS, Mui material, Bootstrap, graphql, antd 
+- Back-end: Using Keystone JS, MySQLite, GraphQL
+
+- Hướng dẫn cách chạy, mở source code BE và chạy tạo tài khoản và mật khẩu rồi chạy file seed (data có sẵn - npm run seed). Sau đó mở source code FE và chạy
+
