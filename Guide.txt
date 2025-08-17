@@ -6,6 +6,7 @@ Source code BE and FE about website manage KOI fish:
 	+ Buy fishes
 	+ Consignment fishes with 2 option (consignment raise, consignment sell)
 	+ Feedback to fishes after buy
+	+ Upload img will store img in cloudinary
 
   - Admin, Staff:
 	+ View every about website
