@@ -6,13 +6,16 @@ Source code BE and FE about website manage KOI fish:
 	+ Buy fishes
 	+ Consignment fishes with 2 option (consignment raise, consignment sell)
 	+ Feedback to fishes after buy
-	+ Upload img will store img in cloudinary
 
   - Admin, Staff:
 	+ View every about website
 	+ CRUD fish, category, article, ...
 	+ Dashboard
 	+ Confirm consignment order from user
+
+  + Payment by Stripe ( Link: https://stripe.com/ )
+  + Save image into Cloudinary ( Link: https://cloudinary.com/ )
+  + Login will send mail ( Link: https://ethereal.email/ )
 
 - Front-end: Using JavaScript, React JS, HTML, CSS, Tailwind CSS, Mui material, Bootstrap, graphql, antd 
 - Back-end: Using Keystone JS, MySQLite, GraphQL
