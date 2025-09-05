@@ -13,7 +13,7 @@ Source code BE and FE about website manage KOI fish:
 	+ Dashboard
 	+ Confirm consignment order from user
 
-  + Payment by Stripe ( Link: https://stripe.com/ )
+  + Payment by Stripe ( Link: https://stripe.com/ ) ( https://docs.stripe.com/testing )
   + Save image into Cloudinary ( Link: https://cloudinary.com/ )
   + Login will send mail ( Link: https://ethereal.email/ )
 
@@ -22,3 +22,8 @@ Source code BE and FE about website manage KOI fish:
 
 - Hướng dẫn cách chạy, mở source code BE và chạy tạo tài khoản và mật khẩu rồi chạy file seed (data có sẵn - npm run seed). Sau đó mở source code FE và chạy
 
+Flow Project
+- Using GraphQL to get data from database
+- Buy fish: User register account -> login -> add product to card -> create order -> payment
+- Consignment: User upload the product to admin -> waiting to admin approve and give a price -> if agree, accept -> if disagree, cancel
+- Consignment Raise: User buy a product -> set a day to take the product -> payment
